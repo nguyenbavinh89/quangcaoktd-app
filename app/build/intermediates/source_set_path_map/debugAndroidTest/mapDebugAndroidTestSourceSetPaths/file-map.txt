@@ -1,0 +1,4 @@
+com.quangcaoktd.app.test.app-androidTest-0 C:\Users\BAVINH\Downloads\Compressed\quangcaoktd-app\quangcaoktd-app\app\build\generated\res\resValues\androidTest\debug
+com.quangcaoktd.app.test.app-mergeDebugAndroidTestResources-1 C:\Users\BAVINH\Downloads\Compressed\quangcaoktd-app\quangcaoktd-app\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.quangcaoktd.app.test.app-mergeDebugAndroidTestResources-2 C:\Users\BAVINH\Downloads\Compressed\quangcaoktd-app\quangcaoktd-app\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.quangcaoktd.app.test.app-debugAndroidTest-3 C:\Users\BAVINH\Downloads\Compressed\quangcaoktd-app\quangcaoktd-app\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

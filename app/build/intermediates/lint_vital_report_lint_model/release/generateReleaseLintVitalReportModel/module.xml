@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="C:\Users\BAVINH\Desktop\QUANG CAO QUOC DANG\APP\quangcaoktd-app\quangcaoktd-app\app"
+    name=":app"
+    type="APP"
+    maven="QuangCaoQuocDang:app:unspecified"
+    agpVersion="8.11.1"
+    buildFolder="build"
+    bootClassPath="C:\Users\BAVINH\AppData\Local\Android\Sdk\platforms\android-36\android.jar;C:\Users\BAVINH\AppData\Local\Android\Sdk\build-tools\35.0.0\core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-36">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

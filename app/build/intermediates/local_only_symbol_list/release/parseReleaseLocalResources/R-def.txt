@@ -1,0 +1,18 @@
+R_DEF: Internal format may change without notice
+local
+color brand_blue
+color ic_launcher_background
+drawable bg_retry_button
+id btn_retry
+id error_view
+id header_bar
+id progress_bar
+id swipe_refresh
+id webview
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_foreground
+mipmap ic_launcher_round
+string app_name
+style AppTheme
+xml network_security_config
