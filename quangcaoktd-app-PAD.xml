@@ -96,7 +96,7 @@ AI Signboard Prompt Generator is developed by Quang Cao Quoc Dang (Cong ty TNHH 
 			<Application_Order_URL />
 			<Application_Screenshot_URL>https://quangcaoktd.com/wp-content/uploads/2026/08/1.EN-1280x800-1.png</Application_Screenshot_URL>
 			<Application_Icon_URL />
-			<Application_XML_File_URL>https://raw.githubusercontent.com/nguyenbavinh89/quangcaoktd-app/refs/heads/main/PAD.xml</Application_XML_File_URL>
+			<Application_XML_File_URL>https://raw.githubusercontent.com/nguyenbavinh89/quangcaoktd-app/refs/heads/main/quangcaoktd-app-PAD.xml</Application_XML_File_URL>
 		</Application_URLs>
 		<Download_URLs>
 			<Primary_Download_URL>https://github.com/nguyenbavinh89/window-exe-ai-prompt-gen/releases/download/v1.0.0/AI-Signboard-Prompt-Generator-Setup-1.0.0.exe</Primary_Download_URL>
